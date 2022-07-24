@@ -1,4 +1,5 @@
-#NOTE: DATABASE WAS TOO LARGE TO UPLOAD WITHIN FILE
+#NOTE: LINK TO DATABASE USED: https://www.dropbox.com/s/lhj4axkaupjhmbq/employees_mod.sql?dl=0
+
 USE employees_mod;
 
 #TASK 1:
